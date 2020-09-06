@@ -15,7 +15,7 @@ role: PhD Student in Computational and Mathematical Engineering
 # Organizations/Affiliations
 organizations:
 - name: Stanford University
-  url: ""
+  url: "https://www.stanford.edu/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include future transportation systems and market design.
